@@ -1,14 +1,15 @@
 # Huntd-Testing-Project
 
-Projekt testowania strony internetowej i aplikacji mobilnej Huntd: 
-https://docs.google.com/spreadsheets/d/1-ppV4-54Yvl0lx17f7zjgVrCOr_E7Eu8naHhLK46Rr0/edit?gid=0#gid=0 
+Huntd website and mobile app testing project:
 
-Testowanie manualne
-## Zakres testów
-- Testy WEB + Mobile
-- Permission testing
+https://docs.google.com/spreadsheets/d/1-ppV4-54Yvl0lx17f7zjgVrCOr_E7Eu8naHhLK46Rr0/edit?gid=0#gid=0
+
+Manual Testing
+## Test Scope
+- Web + Mobile Testing
+- Permission Testing
 - Test Plan
 - RTM (Requirements Traceability Matrix)
 - JIRA (story + bugs)
-- Testrail run results
-- Final report
+- Testrail Run Results
+- Final Report
